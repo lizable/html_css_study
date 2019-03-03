@@ -1,8 +1,13 @@
+/*
+
 div > p {
   border : 5px solid slategray;
   font-size: 20px;
 }
 #myid > p:nth-child(2)
 {
-  color:red;
+  color:rgb(60, 70, 200);
+  font-size: 1.5em;
+  font-family: monospace, "Lucida Sans Unicode", helvetica
 }
+*/
